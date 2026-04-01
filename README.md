@@ -20,8 +20,8 @@ Stay tuned, it’s coming very soon with live demos, source code, and write-ups 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felix-253&show_icons=true&theme=calm" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felix-253&theme=calm" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=finn-dev-253&show_icons=true&theme=calm" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=finn-dev-253&theme=calm" width="48%" />
 </p>
 
 ## 🧰 Tech Stack
